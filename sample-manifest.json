@@ -1,0 +1,12 @@
+{
+  "export_job_id": "446dce86-e5ec-4417-81a4-87887dea0e87",
+  "id_short": 398889,
+  "published_at": "2026-04-12T07:24:41Z",
+  "repo_name": "top-50-restaurant-category-dominators-in-louisiana-us-sample-398889",
+  "sample_asset_name": "beamstation_398889_restaurants-us-la_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/398889/beamstation_398889_restaurants-us-la_SAMPLE_DIST.csv",
+  "sample_records": 5,
+  "sample_sha256": "95be2252670bf01cb2be18d2b1a42d90a1bcc44351bffee549afd659d57a381e",
+  "sample_size_bytes": 36631,
+  "total_records": 50
+}
