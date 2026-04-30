@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Louisiana, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `398889` |
 | Location | Louisiana |
 | Category | Restaurants |
-| Full dataset size | 65 records |
-| Free sample size | 6 records (9.23%) |
-| Last export | 2026-04-22T13:33:04.813160+00:00 |
+| Full dataset size | 54 records |
+| Free sample size | 5 records (9.26%) |
+| Last export | 2026-04-29T14:18:42.348461+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-louisiana-us-sample-398889/releases/download/sample-latest/beamstation_398889_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
